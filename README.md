@@ -21,7 +21,7 @@ This is a **Flutter** application that displays a list of products and allows us
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/flutter-product-app.git
+   git clone https://github.com/HarshZanwar2001/Basic_Shoping_List_Flutter_use_Getx.git
    ```
 2. Navigate to the project directory:
    ```sh
