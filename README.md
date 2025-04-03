@@ -53,15 +53,7 @@ flutter pub get
 - Click on a product to view its details.
 - Tap on "Add to Cart" to receive a notification.
 
-## Configuration
-For custom notification sounds, add a `.mp3` file to:
-```
-android/app/src/main/res/raw/custom_sound.mp3
-```
-Modify `notification_service.dart` to use the new sound:
-```dart
-sound: RawResourceAndroidNotificationSound('custom_sound')
-```
+
 
 ## Contributing
 Feel free to fork this repository and submit pull requests!
