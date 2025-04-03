@@ -25,7 +25,7 @@ This is a **Flutter** application that displays a list of products and allows us
    ```
 2. Navigate to the project directory:
    ```sh
-   cd flutter-product-app
+   cd showing_data
    ```
 3. Install dependencies:
    ```sh
